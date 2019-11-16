@@ -230,6 +230,23 @@ h6 {
     font-size: 15px;
 }
 
+@media (max-width: 832px) {
+
+    #home {
+    position: left;
+	padding: 40px 0 160px 0;
+	height: 500px;
+	color: #FFF;
+    }
+    .sub-title{
+        font-size: 0px;
+    }
+    #home h1{
+    font-size: 36px;
+    margin-top: 10px;
+    }
+}
+
 @media (max-width: 479px) {
 
     #home {
