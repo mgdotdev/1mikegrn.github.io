@@ -211,6 +211,9 @@ h6 {
 /* ---------------------------------------------- */
 
 #home {
+    background-repeat: no-repeat;
+    background-size: 100% 105%;
+    background-attachment: fixed;
     position: center;
 	padding: 50px 0 160px 0;
 	height: 620px;
@@ -233,14 +236,17 @@ h6 {
 @media (max-width: 832px) {
 
     #home {
+    background-attachment: local;
     position: left;
 	padding: 40px 0 160px 0;
 	height: 500px;
 	color: #FFF;
     }
+
     .sub-title{
         font-size: 0px;
     }
+
     #home h1{
     font-size: 36px;
     margin-top: 10px;
@@ -250,14 +256,17 @@ h6 {
 @media (max-width: 479px) {
 
     #home {
+    background-attachment: local;
     position: left;
 	padding: 40px 0 160px 0;
 	height: 300px;
 	color: #FFF;
     }
+
     .sub-title{
         font-size: 0px;
     }
+
     #home h1{
     font-size: 22px;
     margin-top: 10px;
