@@ -89,15 +89,25 @@ h6 {
 	background: #FFF;
 }
 
-.btn-custom-2 {
+.btn-custom-1 {
+    color: #FFF;
     margin-right: 10px;
-	background: #FFF;
-	border: 2px solid #EF4836;
+	background: #222;
+	border: 2px solid #222;
 	padding: 15px 25px;
 }
 
+.btn-custom-1:hover, .btn-custom-1:focus, .btn-custom-1:active, .btn-custom-1.active {
+	background: #FFF;
+	border: 2px solid #222;
+	color: #222;
+}
+
 .btn-custom-2 {
+    margin-right: 10px;
+	background: #FFF;
 	border: 2px solid #FFF;
+	padding: 15px 25px;
 }
 
 .btn-custom-2:hover, .btn-custom-2:focus, .btn-custom-2:active, .btn-custom-2.active {
