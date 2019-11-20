@@ -22,6 +22,18 @@ a:hover {
 	color: #C4C4C4;
 }
 
+.box_textshadow {
+    text-shadow:
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000,
+    -1px 0 0 #000000,
+    1px 0 0 #000000,
+    0 1px 0 #000000,
+    0 -1px 0 #000000;
+}
+
 /* ---------------------------------------------- /*
  * Typography
 /* ---------------------------------------------- */
@@ -100,7 +112,7 @@ h6 {
 .btn-custom-1:hover, .btn-custom-1:focus, .btn-custom-1:active, .btn-custom-1.active {
 	background: #FFF;
 	border: 2px solid #343a40;
-	color: #222;
+	color: #343a40;
 }
 
 .btn-custom-2 {
