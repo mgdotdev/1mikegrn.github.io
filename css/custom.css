@@ -216,12 +216,14 @@ h6 {
 /* ---------------------------------------------- */
 
 .navbar {
-	background: none;
+	background: #343a40;
 	border-radius: 0;
 	border: 0;
 	padding: 2px 0;
 	color: #FFF !important;
 }
+
+@
 
 .git-button {
     position: left;
