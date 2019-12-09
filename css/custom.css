@@ -223,8 +223,6 @@ h6 {
 	color: #FFF !important;
 }
 
-@
-
 .git-button {
     position: left;
     margin-right: 10px;
@@ -240,7 +238,7 @@ h6 {
     background-attachment: fixed;
     position: center;
 	padding: 50px 0 160px 0;
-	height: 620px;
+	height: 100vh;
 	color: #FFF;
 }
 
@@ -317,6 +315,7 @@ h6 {
 	background: #18191a;
 	padding: 55px 0;
 	color: #FFF;
+	height: 94vh;
 }
 
 #contact h1, #contact h2, #contact h3, #contact h4, #contact h5, #contact h6 {
