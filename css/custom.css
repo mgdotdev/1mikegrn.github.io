@@ -318,6 +318,13 @@ h6 {
 	height: 94vh;
 }
 
+@media (max-width: 832px) {
+	
+    #contact {
+		height: auto;
+    }
+}
+
 #contact h1, #contact h2, #contact h3, #contact h4, #contact h5, #contact h6 {
 	color: #FFF;
 }
