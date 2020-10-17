@@ -10,8 +10,7 @@ document.write(`
                     <a href="https://1mikegrn.github.io/docs/Resume%20-%20Michael%20Green.pdf" class="btn btn-default btn-custom-2">Download Resume</a>
                     <a href="https://1mikegrn.github.io/docs/Curriculum%20Vitae%20-%20Michael%20Green.pdf" class="btn btn-default btn-custom-2">Download CV</a>
                     <ul class="icon-list">
-                        <li><br>Flarsheim Hall Rm 320, <br>University of Missouri-Kansas City, MO, USA</li>
-                        <li><a href="mailto:magwwc@umsystem.edu">magwwc@umsystem.edu</a></li>
+                        <li><br><a href="mailto:1mikegrn@gmail.com">1mikegrn@gmail.com</a></li>
                         <li><a href="https://1mikegrn.github.io">https://1mikegrn.github.io</a></li>
                         <li>+1 (907) 570-1506</li>
                     </ul>

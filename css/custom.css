@@ -7,6 +7,7 @@
 body {
 	font: 300 15px/1.6 'Raleway', serif, sans-serif;
 	color: #545454;
+	background: #1a1818;
 }
 
 img {
@@ -41,7 +42,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
 	font: 400 46px/1.2 'Raleway', serif, sans-serif;
 	margin: 5px 0 5px;
-	color: #222;
+	color: rgb(168, 168, 168);
 }
 
 h1 {
@@ -80,6 +81,10 @@ h6 {
 	font-size: 12px;
 }
 
+p {
+	color: #C4C4C4;
+}
+
 /* ---------------------------------------------- /*
  * Custom button style
 /* ---------------------------------------------- */
@@ -103,7 +108,7 @@ h6 {
 }
 
 .btn-custom-1 {
-    color: #FFF;
+    color: #FFF; 
     margin-right: 10px;
 	background: #343a40;
 	border: 2px solid #343a40;
@@ -118,8 +123,8 @@ h6 {
 
 .btn-custom-2 {
     margin-right: 10px;
-	background: #FFF;
-	border: 2px solid #FFF;
+	background: rgb(255, 255, 255);
+	border: 2px solid rgb(255, 255, 255);
 	padding: 15px 25px;
 }
 
@@ -138,23 +143,23 @@ h6 {
 }
 
 .skills li{
-    margin: 25px 0;
+    margin: 20px 0;
 }
 
 .bar{
-    background: #353b48;
+    background: #00e5ff;
     display: block;
     height: 4px;
     border: 1px solid rgba(0,0,0,0.3);
-    border-radius: 3px;
+    border-radius: 4px;
     overflow: hidden;
-    box-shadow: 0 0 10px #2187e7b3
+    box-shadow: 0 0 10px #68b6ffb3
 }
 
 .bar span{
     height: 4px;
     float: right;
-    background: #FFF;
+    background: #353b48;
 }
 
 .weight-full{
@@ -327,7 +332,7 @@ h6 {
 }
 
 #contact h1, #contact h2, #contact h3, #contact h4, #contact h5, #contact h6 {
-	color: #FFF;
+	color: rgb(255, 255, 255);
 }
 
 #contact .form-control {
