@@ -79,7 +79,7 @@ p {
 	color: #C4C4C4;
 }
 
-@media (max-width: 479px) {
+@media (max-width: 875px) {
     h1 {
         font-size: 40px;
     }
@@ -261,7 +261,7 @@ p {
     font-size: 15px;
 }
 
-@media (max-width: 832px) {
+@media (max-width: 875px) {
 
     #home {
     background-attachment: local;
@@ -324,7 +324,7 @@ p {
 	height: 94vh;
 }
 
-@media (max-width: 832px) {
+@media (max-width: 875px) {
 	
     #contact {
 		height: auto;
